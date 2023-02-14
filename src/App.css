@@ -1,0 +1,81 @@
+.App {
+  display: flex;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.nav{
+  display: flex;
+  color:skyblue;
+  flex-direction: row;
+  
+}
+
+.qkr{
+  font-size: 25px;
+  position: absolute;
+  top: -45px;
+  left: 25px;
+}
+
+.dot{
+  display: inline;
+  font-size: 70px;
+}
+
+.things{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  flex-direction: column;
+  color: white
+}
+
+.things1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  flex-direction: column;
+  color: black
+}
+
+.title{
+  font-size: 60px;
+  line-height: 1;
+}
+
+.content{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  font-size: 20px;
+  margin-top: -15px;
+}
+
+.links{
+  color: gainsboro;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+.contacts{
+  margin: 10px;
+  color: white;
+}
+
+.links1{
+  color: rgb(102, 102, 102);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+.contacts1{
+  margin: 10px;
+  color: black;
+}
