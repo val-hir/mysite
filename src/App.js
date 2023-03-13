@@ -74,7 +74,7 @@ function App() {
           </h1>
           <p className='content'>
             I’m Seojin, I usually go by Jin. 
-            I'm a Seoul-born <a className='links1' href= "https://wgss.ca">high school</a> Computer Porgrammer. 
+            I'm a Seoul-born <a className='links1' href= "https://wgss.ca">high school</a> Computer Programmer. 
             I graduate in {days < 10 ? "0" + days : days} {days === 0 ? "day" : "days"}. 
           </p>
           <p className='content'>
